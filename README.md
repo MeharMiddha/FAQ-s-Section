@@ -1,2 +1,2 @@
 # FAQ-s-Section
-Frequenctly asked questions section
+Frequently asked questions section
